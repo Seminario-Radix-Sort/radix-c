@@ -209,12 +209,14 @@ Ubuntu 22.04.4 LTS | g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0 | Ryzen 5 5500U 
 [![Gmail][gmail-badge]][gmail-autor1]
 [![Linkedin][linkedin-badge]][linkedin-autor1]
 [![Telegram][telegram-badge]][telegram-autor1]
+<br><br>
    <i>Guilherme Alvarenga de Azevedo - Graduando - 3º Período de Engenharia de Computação @ CEFET-MG</i>
 <br><br>
 
 [![Gmail][gmail-badge]][gmail-autor2]
 [![Linkedin][linkedin-badge]][linkedin-autor2]
 [![Telegram][telegram-badge]][telegram-autor2]
+<br><br>
    <i>João Paulo da Cunha Faria - Graduando - 3º Período de Engenharia de Computação @ CEFET-MG</i>
 <br><br>
 
