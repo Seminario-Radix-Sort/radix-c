@@ -152,10 +152,10 @@ Considerando um ambiente _shell_, garanta que os seguintes comandos já foram ex
 
 Com o ambiente preparado, os seguintes passos são para a instalação, compilação e execução do programa localmente:
 
-1. Clone a _branch_ [`AlgoritmosMinMax`][branchAMM-url] do repositório no diretório desejado:
+1. Clone o repositório no diretório desejado:
   ```console
-  git clone https://github.com/alvarengazv/trabalhosAEDS1.git
-  cd trabalhosAEDS1
+  git clone https://github.com/Seminario-Radix-Sort/radix-c.git
+  cd radix-c
   ```
 2. Compile o programa com o ___make___, o que gera a pasta `build`, que contém arquivos de objeto e um arquivo executável:
   ```console
@@ -164,11 +164,6 @@ Com o ambiente preparado, os seguintes passos são para a instalação, compila�
 3. Execute o programa da pasta `build` após a compilação:
   ```console
   make run
-  ```
-
-4. Se precisar gerar os gráficos separadamente (o programa já faz isso), execute a seguinte linha de comando:
-  ```console
-  gnuplot src/medias.csv
   ```
 
 5. Se necessário, apague a última compilação da pasta `build`:
