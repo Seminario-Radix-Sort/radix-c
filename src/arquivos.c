@@ -35,7 +35,7 @@ void escritaArquivo(char *nomeArquivo, char *tabelaSaida) {
 
     timer = time(NULL);
     tm_info = localtime(&timer);
-    strftime(buffer, 26, "-%d-%m-%Y-%H:%M:%S", tm_info);
+    strftime(buffer, 26, "-%d-%m-%Y-%H-%M-%S", tm_info);
     
     strcat(nomeArquivo, buffer);
     strcat(nomeArquivo, ".csv");
